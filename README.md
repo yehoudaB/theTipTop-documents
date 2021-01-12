@@ -1,2 +1,2 @@
-# documents
-liste des documents qui présentent le projet
+# ProjetDSP
+Code source et documents du projet
