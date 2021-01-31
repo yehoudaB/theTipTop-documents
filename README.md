@@ -1,2 +1,2 @@
-# ProjetDSP
-Code source et documents du projet
+# Documents
+Documents du projet
